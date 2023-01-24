@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <className name="MT1101">com.chance.strategy.example02.service.impl.MT1101Strategy</className>
+    <className name="MT2101">com.chance.strategy.example02.service.impl.MT2101Strategy</className>
+    <className name="MT4101">com.chance.strategy.example02.service.impl.MT4101Strategy</className>
+    <className name="MT8101">com.chance.strategy.example02.service.impl.MT8101Strategy</className>
+</config>
